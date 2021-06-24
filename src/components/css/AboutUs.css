@@ -1,0 +1,22 @@
+ /* style for About page */
+ul{
+    letter-spacing: 3px;
+    list-style-type: none;
+}
+ul li{
+    margin:20px;
+}
+#spl{
+    color:grey;
+    font-family:  sans-serif;
+    /* margin-left:40px; */
+    border-left: 5px solid grey;
+}
+ul li a{
+    color:black;
+}
+.Logo{
+   
+    text-align: center;
+   
+}

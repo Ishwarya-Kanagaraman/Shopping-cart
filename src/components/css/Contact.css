@@ -1,0 +1,30 @@
+.element{
+     margin: 30px auto;
+     padding:20px;
+      width: 600px;
+}
+@media screen and (max-width:500px) {
+    .element{
+        margin:30px;
+        padding:10px;
+        width:300px;
+    }
+}
+.Contact{
+    display: block;
+    margin:30px auto;
+    padding:30px;
+    background:rgb(222 217 217);
+}
+.submit{
+    margin:40px;
+    text-align: center;
+}
+.text{
+    width:700px;
+}
+@media screen and (max-width:500px){
+    .text{
+        width:300px;   
+    }
+}
